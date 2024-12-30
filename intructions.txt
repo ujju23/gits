@@ -1,0 +1,4 @@
+to set a folder as git repo
+just run in terminal git init
+and then run git remote add origin (git@github.com:ujju23/git_Git.git)
+after origin I hae gien the path of github repo where i want to push and pulls
