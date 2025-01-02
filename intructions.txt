@@ -13,5 +13,5 @@ beacuse its a local repo right now not a remote one
 if you want to make it a remote repo
 git remote add origin git@github.com:ujju23/gits.git ( after origin i hae gien the remote address, 
 unique for eery repo)   
-git branch -M main 
+git branch -M main ( this is to remoe master and add main coz eerthing will done on main)
 git push -u origin main
