@@ -3,9 +3,15 @@ just run in terminal git init
 and then run git remote add origin (git@github.com:ujju23/git_Git.git)
 after origin I hae gien the path of github repo where i want to push and pulls
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:ujju23/gits.git
+
+
+when you are creating a new folder and want to make it git repo----
+git init  ( run this code on terminal for that folder )
+now you can do git add, git commit , git diff and many more thins just apart from git push and pulls
+beacuse its a local repo right now not a remote one
+
+if you want to make it a remote repo
+git remote add origin git@github.com:ujju23/gits.git ( after origin i hae gien the remote address, 
+unique for eery repo)   
+git branch -M main 
 git push -u origin main
