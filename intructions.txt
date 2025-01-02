@@ -4,7 +4,7 @@ and then run git remote add origin (git@github.com:ujju23/git_Git.git)
 after origin I hae gien the path of github repo where i want to push and pulls
 
 
-
+added with design
 when you are creating a new folder and want to make it git repo----
 
 1.git init  ( run this code on terminal for that folder )
